@@ -1,5 +1,4 @@
-# goodwe-charge-assistant
-Chatbot desenvolvido para o EV Challenge 2026 da GoodWe utilizando IA para suporte à gestão de carregadores elétricos.
+
 # GoodWe Charge Assistant
 
 Chatbot desenvolvido para o EV Challenge 2026 da FIAP, com foco no contexto da GoodWe e na gestão inteligente de carregadores para veículos elétricos.
